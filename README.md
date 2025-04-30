@@ -4,7 +4,7 @@ Developed a Unity prototype for a simplified Solitaire-style card game. The prot
 	•	Basic drag-and-drop movement of cards between stacks.
 	•	A modular Game Manager that uses the Command Pattern to execute and undo player moves.
 	•	An ICommand interface for consistent move handling, allowing the system to remain extensible and clean.
-	•	A simple user interface.
+	•	A simple user interface and single point of entry for the game.
 
 
  What I’d Improve With More Time
